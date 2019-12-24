@@ -1,5 +1,5 @@
 # Network Fundamental DHCP Set Up (Cisco Packet Tracer - For study purpose only)
-Configure a network for an organization with multiple departments: IT, Finance, HR, Logistic and Marketing, where all users in the department receive appropriate dynamic IP address from a DHCP Server.
+Here in this project i will configure a network for an organization with multiple departments: IT, Finance, HR, Logistic and Marketing, where all users in the department receive appropriate dynamic IP address from a DHCP Server.
 
 ![network design](/network_design.PNG)
 
