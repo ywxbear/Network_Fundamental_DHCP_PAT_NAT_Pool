@@ -3,5 +3,6 @@ Configure a network for an organization with multiple departments: IT, Finance, 
 
 ## How to Run
 Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the dhcp_conf.pkt. The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
+**All Router and Switch passwords: cisco**
 
 This solution works for version 6.2 or above of Cisco Packet Tracer.
